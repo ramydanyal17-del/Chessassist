@@ -1,0 +1,2 @@
+rootProject.name = "FloatingChessAssistant"
+include ':app'

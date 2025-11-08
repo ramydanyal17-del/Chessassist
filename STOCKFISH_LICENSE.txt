@@ -1,0 +1,1 @@
+Stockfish is GPL-3.0 licensed. See https://www.stockfishchess.org/ and the Stockfish GitHub repo for full license.
